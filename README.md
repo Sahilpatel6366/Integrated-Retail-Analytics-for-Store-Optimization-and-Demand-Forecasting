@@ -1,5 +1,6 @@
 Integrated-Retail-Analytics-for-Store-Optimization-and-Demand-Forecasting
-Integrated Retail Analytics for Store Optimization and Demand Forecasting 📌 Project Overview This capstone project aims to apply data science and machine learning techniques to optimize retail store operations by forecasting demand, segmenting stores, and analyzing key sales drivers. The project leverages historical sales data, store characteristics, and economic indicators to provide strategic insights for improving inventory management, marketing effectiveness, and customer satisfaction.
+Integrated Retail Analytics for Store Optimization and Demand Forecasting 
+📌 Project Overview This capstone project aims to apply data science and machine learning techniques to optimize retail store operations by forecasting demand, segmenting stores, and analyzing key sales drivers. The project leverages historical sales data, store characteristics, and economic indicators to provide strategic insights for improving inventory management, marketing effectiveness, and customer satisfaction.
 
 🎯 Project Objective To utilize advanced analytics and predictive modeling to:
 
